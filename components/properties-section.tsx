@@ -25,7 +25,7 @@ const projects = [
     status: "Ready to Move",
     type: "Premium Flats",
     progress: 100,
-  image: "/images/PRADEEP-033.jpg.jpeg",
+    image: "/images/PRADEEP-033.jpg.jpeg",
     tag: "Ready to Move",
     description:
       "Exclusive living where luxury meets tranquility in one of Hyderabad's most sought-after locations. Premium villas with spacious living areas and modern architecture.",
@@ -38,7 +38,7 @@ const projects = [
     status: "Ready to Move",
     type: "Smart Homes",
     progress: 100,
-   image: "/images/PRADEEP 67X60-6.jpg.jpeg",
+   image: "/images/PRADEEP REDDY-3.jpg.jpeg",
     tag: "Smart Living",
     description:
       "An unmatched investment in lifestyle, comfort, and sustainability. Cutting-edge smart home technology with eco-conscious design and modern automation.",
@@ -51,7 +51,7 @@ const projects = [
     status: "Project Completed",
     type: "Premium Residences",
     progress: 100,
-    image: "/images/PRADEEP REDDY-3.jpg.jpeg",
+    image: "/images/PRADEEP 67X60-6.jpg.jpeg",
     tag: "Completed",
     description:
       "Where luxury meets convenience in the heart of the city. Spacious residences with modern designs, high-end finishes, and resort-style amenities.",
@@ -64,7 +64,7 @@ const projects = [
     status: "Completed",
     type: "Family Homes",
     progress: 100,
-    image: "/images/PRADEEP_2579.jpg.jpeg",
+    image: "/images/PRADEEP_2579.JPG.jpeg",
     tag: "Family Living",
     description:
       "Luxury meets convenience with spacious residences featuring modern designs, high-end finishes, and family-friendly amenities.",
