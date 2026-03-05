@@ -149,7 +149,7 @@ export function AboutSection() {
           >
             <div className="glass-card overflow-hidden rounded-3xl">
               <div className="relative aspect-[4/3]">
-                <Image src="/images/home.webp" alt="Pradeep Groups luxury property showcase" fill className="object-cover" />
+                <Image src="/images/home.jpg.jpeg" alt="Pradeep Groups luxury property showcase" fill className="object-cover" />
                 <div className="absolute inset-0 bg-gradient-to-t from-background/40 to-transparent" />
               </div>
             </div>
