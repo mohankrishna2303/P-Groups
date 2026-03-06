@@ -9,11 +9,11 @@ const items = [
   "Smart Homes",
   "Earthquake Resistant",
   "Pradeep Pride",
+  "Pradeep Prestige
   "100% Satisfaction",
   "Riveria Residency",
   "M25 Grade Concrete",
   "Hyderabad Locations",
-  "Advika LakshmiHomes",
   "Building Dreams",
 ]
 
