@@ -7,7 +7,7 @@ import Image from "next/image"
 const projects = [
   {
     id: 1,
-    title: "Pradeep Pride ",
+    title: "Pradeep Presige ",
     location: "Beeramguda, Hyderabad",
     status: "Ready to Move",
     type: "Luxury Apartments",
@@ -20,7 +20,7 @@ const projects = [
   },
   {
     id: 2,
-    title: "Pradeep Prestige",
+    title: "Pradeep Pride",
     location: "Kondapur, Hyderabad",
     status: "Ready to Move",
     type: "Premium Flats",
