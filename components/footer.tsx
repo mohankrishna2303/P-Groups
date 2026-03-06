@@ -94,7 +94,7 @@ export function Footer() {
             </p>
             <p className="text-xs text-muted-foreground/70">
               Designed by{" "}
-              <span className="font-semibold text-gradient-gold">MAR Solutions , 6303377903, 9491321951</span>
+              <span className="font-semibold text-gradient-gold"> Mohan Reddy , 6303377903, 9491321951</span>
             </p>
           </div>
 
